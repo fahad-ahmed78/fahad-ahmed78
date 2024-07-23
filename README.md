@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Mohammed Fahad Ahmed<br>==================================<br><h4>A Web Developer | Designer</h4><br><br>- 🔭 I’m currently working on a MERN Project<br>- 🌱 I’m Interested to work on Web Development<br>- 👯 I’m Making The World Better By Coding <br>- 💬 Ask me about Technology<br>- 📫 How to reach me: mdfahad1608@gmail.com<br>- ⚡ Fun fact: I'm Pursuing MCA | Skills Of Designing And Coding.
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My Name Is Mohammed Fahad Ahmed<br>==================================<br><h4>A Web Developer | Designer</h4><br><br>- 🔭 I’m currently working on a MERN Project<br>- 🌱 I’m Interested to work on Front End Development and Web Development<br>- 👯 I’m Making The World Better By Coding <br>- 💬 Ask me about Technology<br>- 📫 How to reach me: mdfahad1608@gmail.com<br>- ⚡ Fun fact: I love experimenting with emerging technologies and creating innovative web applications.
 
 
 ## 🌐 Socials:
